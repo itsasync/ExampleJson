@@ -1,0 +1,16 @@
+{
+  "art": [
+    {
+      "nom": "joconde",
+      "titre": "La Joconde",
+      "description": "Peinte par Léonard de Vinci...",
+      "imageFile": "joconde"
+    },
+    {
+      "nom": "02_dev",
+      "titre": "Le Développement",
+      "description": "Cette œuvre illustre...",
+      "imageFile": "02_dev"
+    }
+  ]
+}
